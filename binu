@@ -5,7 +5,7 @@ git init
 git add .
 git commit -m "initial commit"
 git remote add origin https://github.com/manojmr23/ABC.git(here i should upload my repo link)
-git push -u origin main. If this error occurs, use this command ( git branch -m main) and redo this push command 
+git push -u origin main If this error occurs, use this command ( git branch -m main) and redo this push command 
 
 git checkout -b feature-branch
 echo "Feature branch update" >> demo.txt
